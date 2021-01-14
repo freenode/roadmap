@@ -1,6 +1,6 @@
 # freenode roadmap
 
-Welcome to freenode's roadmap repository, where we describe and track planned changes and improvements to the free and open source software that we use to run our network, so that you can get an idea of what we're up to or find things to get involved with.
+Welcome to freenode's roadmap repository, where we describe and track planned changes and improvements to the free and open source software that we use to run our network, so that you can get an idea of what we're up to or find things to get involved with. You can see an overview of open tasks and their state on our [projects board](https://github.com/orgs/freenode/projects/1).
 
 We use a variety of free software, both in-house and upstream, to meet the needs of our communities. Noteworthy examples include:
 
